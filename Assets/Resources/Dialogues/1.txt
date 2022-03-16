@@ -1,0 +1,2 @@
+Me	It's a kind of videogame you can play on your computer or a console.
+jump	3

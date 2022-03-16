@@ -1,0 +1,8 @@
+bg	Toit
+show	Sylvie	Happy
+	And so, we become a visual novel creating duo.
+Sylvie	I have to go.
+Sylvie	Bye
+hide	Sylvie
+	And, she is gone.
+end

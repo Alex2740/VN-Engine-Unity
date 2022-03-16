@@ -1,0 +1,14 @@
+bg	Maison
+music	Mystere
+show	Sylvie	Happy
+Sylvie	Hi there! How was class?
+Me	Good...
+show	Bobette	Scared
+Bobette	I have forgot my bag.
+	I can't bring myself to admit that it all went in one ear and out the other.
+hide	Bobette
+Me	Are you going home now? Wanna walk back with me?
+show	Sylvie	Surprised
+Sylvie	Sure, but what's a "visual novel"?
+menu	It's a videogame.	It's an interactive book.
+jump	1	2
